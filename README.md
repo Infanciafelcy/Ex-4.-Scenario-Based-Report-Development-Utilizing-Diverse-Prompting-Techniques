@@ -85,4 +85,4 @@ flowchart TD
 
 Successfully designed an AI-powered retail customer support chatbot using different prompting techniques. The chatbot generated responses for common customer inquiries, including product availability, order tracking, returns, and refunds.
 
-The experiment demonstrates how prompt engineering improves chatbot communication, response relevance, and customer support efficienc
+The experiment demonstrates how prompt engineering improves chatbot communication, response relevance, and customer support efficiency
